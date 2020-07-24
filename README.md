@@ -1,9 +1,9 @@
 # Demo OpenCV Hand Finger Recognition
 
-Forked from https://github.com/bicho/hand_finger_recognition_android all credits to @h3ct0r i'm just upgrade the code to Android Studio &  OpenCV-3.1.0 Android SDK.
+Forked from https://github.com/hery84/OpenCV_HandFingerRecognition all credits to @h3ct0r and @hery84.
 
 ## Installation
-...
+Press the download button
 
 ## Dependencies
 http://opencv.org/downloads.html
